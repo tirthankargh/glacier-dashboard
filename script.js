@@ -40,3 +40,5 @@ fetch('data/glaciers.geojson')
       }
     }).addTo(map);
   });
+
+  
